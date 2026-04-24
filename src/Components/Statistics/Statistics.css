@@ -1,0 +1,23 @@
+.statistics-item {
+    text-align: center;
+    padding: 1% 7%;
+    color: white;
+    line-height: 50px;
+}
+
+.statistics-item-id-1 {
+     background-color: #2196f3;
+}
+.statistics-item-id-2 {
+     background-color: #b768f7;
+}
+.statistics-item-id-3 {
+     background-color: #e45d7e;
+
+}
+.statistics-item-id-4 {
+     background-color: #1f796a;
+}
+.statistics-item-id-5 {
+     background-color: #d8df79;
+}

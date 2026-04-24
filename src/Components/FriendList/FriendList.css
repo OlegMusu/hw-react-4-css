@@ -1,0 +1,28 @@
+.friend-list-item {
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 50%;
+    box-shadow: 1px 3px 7px 0px rgba(32, 32, 32, 0.75);
+    border-radius: 5px;
+}
+
+.friend-avatar {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    margin-right: 20px;
+}
+
+.friend-status {
+    font-size: 20px;
+}
+
+
+.friend-status-isOnline-online {
+    color: green;
+}
+.friend-status-isOnline-offline {
+    color: red;
+}
